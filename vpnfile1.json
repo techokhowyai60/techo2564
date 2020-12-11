@@ -1,8 +1,8 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.1",
+"Version":"1.2",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/techokhowyai60/techo2564/raw/master/teauto59.zip" ,
+"Url":"https://github.com/suraboonma/techo60/raw/master/teauto59.zip" ,
 "Changelog":"
 ตรวสอบพบการอัปเดตไฟล์ของแอป ในปัจจุบันกรุณากดตกลงเพื่อรับการอัปเดตไฟล์เซริฟเวอร์ จัดทำแอปโดย:แอดมิน เตโช
 ",
